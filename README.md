@@ -6,6 +6,12 @@
 | -------------                                                                                                                                                          |:--------:| :--------: | :--------: |
 | [Yazbel Python Belgelesi - Yayım 4.0.0](https://python-istihza.yazbel.com/YazbelPythonProgramlamaDiliBelgeleri.pdf)                                                    |Turkish   | Book       | :--------: |
 
+## **AI & Machine Learning**
+
+| Resource                                                                                                                                                               | Language | Type               | What's it? |
+| -------------                                                                                                                                                          |:--------:| :--------:         | :--------: |
+| [Transformerları Kullanmaya Giriş](https://devhunteryz.wordpress.com/2023/06/)                                                                                         |Turkish   | Blog               | :--------: |
+
 ## **Robotics + FRC**
 
 | Resource                                                                                                                                                               | Language | Type               | What's it? |
