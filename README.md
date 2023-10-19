@@ -24,3 +24,13 @@
 | [Makine Eğitimi](https://www.makinaegitimi.com/)                                                                                                                       |Turkish   | Website - Platform | :--------: |
 | [The Mathematics Behind Deep Learning](https://towardsdatascience.com/the-mathematics-behind-deep-learning-f6c35a0fe077)                                               |English   | Blog               | :--------: |
 | [Crash Course FRC – Build Process](https://blog.thebluealliance.com/2018/10/13/crash-course-frc-the-process/)                                                          |English   | Blog               | :--------: |
+| [Using a objective weight table for robotics](https://drive.google.com/file/d/11hHG7IVczt1M-EPjxiVAP--f8LT3dun_/view?usp=share_link)                                   |English   | Document           | :--------: |
+| [The Grabanski Design Manifesto](https://drive.google.com/file/d/1qvp9UgmDa8lYdGUF_-vY4Snd38uDkb9A/view?usp=sharing)                                                   |English   | Document           | :--------: |
+
+
+## ** Mechanics **
+
+| Resource                                                                                                                                                               | Language | Type               | What's it? |
+| -------------                                                                                                                                                          |:--------:| :--------:         | :--------: |
+| [Mechanical Principles of Wheelchair Design](https://drive.google.com/file/d/1RaSgrcUdQZfCRq4YGBvz6heHNDIRevco/view?usp=share_link)                                    |English   | Document           | :--------: |
+| [Handbook Of Timing Belts and Pulleys](https://drive.google.com/file/d/1o6MbocEiKesJiYx5NoqQazcuerhuDASB/view?usp=share_link)                                          |English   | Document           | :--------: |
