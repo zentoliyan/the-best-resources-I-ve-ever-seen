@@ -29,6 +29,8 @@
 | [Design Concepts      - Team 3847](https://drive.google.com/file/d/12_hdCf-3bIsf3ewdeFdXtA1eKaS0UdrI/view?usp=share_link)                                              |English   | Document           | :--------: |
 | [Scouting for the Win - Team 254](https://drive.google.com/file/d/1G8pxyWBl4tqFVv64RNNIP_1f7OIMe9V_/view?usp=sharing)                                                  |English   | Document           | :--------: |
 | [Let's Do Robot Math! - Team 67](https://drive.google.com/file/d/156I89TrCLA97dA-RtMCDkoLNXehp9AIv/view)                                                               |English   | Document           | :--------: |
+| [Guide to the FRC MCC - Team 3847](https://drive.google.com/file/d/1u16YUQo_enAXq78zRRROyCOekmf64HOR/view?usp=share_link)                                              |English   | Document           | :--------: |
+| [FRC Java Programming - Team 3255](https://drive.google.com/file/d/1Trn48xzdfsAeqEstdvyR3Ffl3j0ixxGw/view?usp=share_link)                                              |English   | Document           | :--------: |
 
 ## **Mechanics**
 
