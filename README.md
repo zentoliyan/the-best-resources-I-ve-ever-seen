@@ -14,13 +14,6 @@
 | [Transformerları Kullanmaya Giriş](https://devhunteryz.wordpress.com/2023/06/)                                                                                         |Turkish   | Blog               | :--------: |
 | [The Mathematics Behind Deep Learning](https://towardsdatascience.com/the-mathematics-behind-deep-learning-f6c35a0fe077)                                               |English   | Blog               | :--------: |
 
-# Robotics
-
-## **General**
-| Resource                                                                                                                                                               | Language | Type               | What's it? |
-| -------------                                                                                                                                                          |:--------:| :--------:         | :--------: |
-| [Model Roketçilik](https://drive.google.com/file/d/1I3Fs1khMPCQeAva_wZJ3m-99UcQqcp_e/view?usp=share_link)                                                              |Turkish   | Document           | :--------: |
-
 # Hardware
 
 ## **Mechanics**
@@ -45,6 +38,12 @@
 | [Temel Elektrik Ders Notu](https://drive.google.com/file/d/1kyS7yX8Ha_Q004x2a7UGqT43rel2hJPD/view?usp=share_link)                                                      |English   | Document           | :--------: |
 | [PCB Manufacturing Process — A Step-by-Step Guide](https://www.pcbcart.com/article/content/PCB-manufacturing-process.html)                                             |English   | Blog               | :--------: |
 
+# Robotics
+
+## **General**
+| Resource                                                                                                                                                               | Language | Type               | What's it? |
+| -------------                                                                                                                                                          |:--------:| :--------:         | :--------: |
+| [Model Roketçilik](https://drive.google.com/file/d/1I3Fs1khMPCQeAva_wZJ3m-99UcQqcp_e/view?usp=share_link)                                                              |Turkish   | Document           | :--------: |
 
 ## **FRC**
 
