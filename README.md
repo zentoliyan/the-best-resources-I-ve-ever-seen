@@ -56,6 +56,7 @@
 | [Crash Course FRC – Build Process](https://blog.thebluealliance.com/2018/10/13/crash-course-frc-the-process/)                                                          |English   | Blog               | :--------: |
 | [Using a objective weight table for robotics](https://drive.google.com/file/d/11hHG7IVczt1M-EPjxiVAP--f8LT3dun_/view?usp=share_link)                                   |English   | Document           | :--------: |
 | [The Grabanski Design Manifesto](https://drive.google.com/file/d/1qvp9UgmDa8lYdGUF_-vY4Snd38uDkb9A/view?usp=sharing)                                                   |English   | Document           | :--------: |
+| [Controls Engineering in the FRC](https://drive.google.com/file/d/1MsFfKZ-x6PjJnOKa027pdtz4IFM77s5D/view?usp=sharing)                                                  |English   | Document           | :--------: |
 | [FRC Drivetrains](https://drive.google.com/file/d/1foorU-3JMqsPTy_iqE6gWB-dHhK06xRR/view?usp=share_link)                                                               |English   | Document           | :--------: |
 | [Drive Team Manual    - Team 2168](https://drive.google.com/file/d/1ZpICnB_NG1VWefQE_MdFJ-9CGDbOohn7/view?usp=sharing)                                                 |English   | Document           | :--------: |
 | [Students leadership  - Team 1678](https://drive.google.com/file/d/1tf0_RCNO7Xutx1AfHuDK88FuYVPL1Lfa/view?usp=sharing)                                                 |English   | Document           | :--------: |
