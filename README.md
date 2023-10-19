@@ -1,6 +1,12 @@
 # Welcome to the "The Best Resources I've Ever Seen!"
 
+# Economics and Finance
+| Resource                                                                                                                                                               | Language | Type               | What's it? |
+| -------------                                                                                                                                                          |:--------:| :--------:         | :--------: |
+| [Yatırımcı ve Teknik Analiz Sorgulanıyor](https://www.bilgeyatirimci.com/yatvetekanaliz.pdf)                                                                           |Turkish   | Book               | :--------: |
+
 # Programming 
+
 ## **Pyton**
 
 | Resource                                                                                                                                                               | Language | Type               | What's it? |
@@ -13,6 +19,12 @@
 | -------------                                                                                                                                                          |:--------:| :--------:         | :--------: |
 | [Transformerları Kullanmaya Giriş](https://devhunteryz.wordpress.com/2023/06/)                                                                                         |Turkish   | Blog               | :--------: |
 | [The Mathematics Behind Deep Learning](https://towardsdatascience.com/the-mathematics-behind-deep-learning-f6c35a0fe077)                                               |English   | Blog               | :--------: |
+
+## **Data Science**
+
+| Resource                                                                                                                                                               | Language | Type               | What's it? |
+| -------------                                                                                                                                                          |:--------:| :--------:         | :--------: |
+| [Data Science for Economics and Finance](https://link.springer.com/content/pdf/10.1007/978-3-030-66891-4.pdf?pdf=button#page74)                                        |English   | Blook              | :--------: |
 
 # Hardware
 
