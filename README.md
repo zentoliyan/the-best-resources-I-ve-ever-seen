@@ -26,11 +26,22 @@
 | [Crash Course FRC – Build Process](https://blog.thebluealliance.com/2018/10/13/crash-course-frc-the-process/)                                                          |English   | Blog               | :--------: |
 | [Using a objective weight table for robotics](https://drive.google.com/file/d/11hHG7IVczt1M-EPjxiVAP--f8LT3dun_/view?usp=share_link)                                   |English   | Document           | :--------: |
 | [The Grabanski Design Manifesto](https://drive.google.com/file/d/1qvp9UgmDa8lYdGUF_-vY4Snd38uDkb9A/view?usp=sharing)                                                   |English   | Document           | :--------: |
+| [Drive Team Manual - Team 2168](https://drive.google.com/file/d/1ZpICnB_NG1VWefQE_MdFJ-9CGDbOohn7/view?usp=sharing)                                                    |English   | Document           | :--------: |
+| [Students leadership - Team 1678](https://drive.google.com/file/d/1tf0_RCNO7Xutx1AfHuDK88FuYVPL1Lfa/view?usp=sharing)                                                  |English   | Document           | :--------: |
+| [Design Concepts - Team 3847](https://drive.google.com/file/d/12_hdCf-3bIsf3ewdeFdXtA1eKaS0UdrI/view?usp=share_link)                                                   |English   | Document           | :--------: |
 
-
-## ** Mechanics **
+## **Mechanics**
 
 | Resource                                                                                                                                                               | Language | Type               | What's it? |
 | -------------                                                                                                                                                          |:--------:| :--------:         | :--------: |
 | [Mechanical Principles of Wheelchair Design](https://drive.google.com/file/d/1RaSgrcUdQZfCRq4YGBvz6heHNDIRevco/view?usp=share_link)                                    |English   | Document           | :--------: |
 | [Handbook Of Timing Belts and Pulleys](https://drive.google.com/file/d/1o6MbocEiKesJiYx5NoqQazcuerhuDASB/view?usp=share_link)                                          |English   | Document           | :--------: |
+| [Modern İmalatın Prensibleri](https://drive.google.com/file/d/1EQvGCDc-mcnZ15CFIvlcAEAhPchJb0rn/view?usp=share_link)                                                   |Turkish   | Document           | :--------: |
+
+
+## **Electronics**
+
+| Resource                                                                                                                                                               | Language | Type               | What's it? |
+| -------------                                                                                                                                                          |:--------:| :--------:         | :--------: |
+| [Temel Elektrik Ders Notu](https://drive.google.com/file/d/1kyS7yX8Ha_Q004x2a7UGqT43rel2hJPD/view?usp=share_link)                                                      |English   | Document           | :--------: |
+ 
