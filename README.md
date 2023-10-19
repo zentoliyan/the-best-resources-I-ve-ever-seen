@@ -28,6 +28,7 @@
 | [Students leadership  - Team 1678](https://drive.google.com/file/d/1tf0_RCNO7Xutx1AfHuDK88FuYVPL1Lfa/view?usp=sharing)                                                 |English   | Document           | :--------: |
 | [Design Concepts      - Team 3847](https://drive.google.com/file/d/12_hdCf-3bIsf3ewdeFdXtA1eKaS0UdrI/view?usp=share_link)                                              |English   | Document           | :--------: |
 | [Scouting for the Win - Team 254](https://drive.google.com/file/d/1G8pxyWBl4tqFVv64RNNIP_1f7OIMe9V_/view?usp=sharing)                                                  |English   | Document           | :--------: |
+| [Let's Do Robot Math! - Team 67](https://drive.google.com/file/d/156I89TrCLA97dA-RtMCDkoLNXehp9AIv/view)                                                               |English   | Document           | :--------: |
 
 ## **Mechanics**
 
@@ -39,6 +40,9 @@
 | [Mechanical Principles of Wheelchair Design](https://drive.google.com/file/d/1RaSgrcUdQZfCRq4YGBvz6heHNDIRevco/view?usp=share_link)                                    |English   | Document           | :--------: |
 | [Handbook Of Timing Belts and Pulleys](https://drive.google.com/file/d/1o6MbocEiKesJiYx5NoqQazcuerhuDASB/view?usp=share_link)                                          |English   | Document           | :--------: |
 | [Modern İmalatın Prensibleri](https://drive.google.com/file/d/1EQvGCDc-mcnZ15CFIvlcAEAhPchJb0rn/view?usp=share_link)                                                   |Turkish   | Document           | :--------: |
+| [Mekanik Tasarımda Malzeme Seçimi](https://drive.google.com/file/d/1ZVL1Hohb2PzZ5DBZ6jMcCNkfSu4K2Tl9/view?usp=share_link)                                              |Turkish   | Document           | :--------: |
+| [Kuvvet Kalibrasyonları Rehberi](https://drive.google.com/file/d/1PG8uAPtCjLZCeRZpeDmFNULv2E36t_v_/view?usp=sharing)                                                   |Turkish   | Document           | :--------: |
+| [Kayış-Kasnak Mekanizmaları](https://drive.google.com/file/d/1QEmtm7pp4mHyYlkA5c3vHt5wk8iDdH04/view?usp=share_link)                                                    |Turkish   | Document           | :--------: |
 
 
 ## **Electronics**
