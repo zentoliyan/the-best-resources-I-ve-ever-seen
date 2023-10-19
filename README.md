@@ -6,7 +6,7 @@
 | -------------                                                                                                                                                          |:--------:| -----|
 | [Yazbel Python Belgelesi - Yayım 4.0.0](https://python-istihza.yazbel.com/YazbelPythonProgramlamaDiliBelgeleri.pdf)                                                    |Turkish   | -----|
 
-## **Robotics**
+## **Robotics + FRC**
 
 | Resource                                                                                                                                                               | Language | What's it? |
 | -------------                                                                                                                                                          |:--------:| -----|
