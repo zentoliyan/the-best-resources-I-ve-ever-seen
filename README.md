@@ -2,9 +2,9 @@
 
 ## **Pyton**
 
-| Resource                                                                                                                                                               | Language | Type       | What's it? |
-| -------------                                                                                                                                                          |:--------:| :--------: | :--------: |
-| [Yazbel Python Belgelesi - Yayım 4.0.0](https://python-istihza.yazbel.com/YazbelPythonProgramlamaDiliBelgeleri.pdf)                                                    |Turkish   | Book       | :--------: |
+| Resource                                                                                                                                                               | Language | Type               | What's it? |
+| -------------                                                                                                                                                          |:--------:| :--------:         | :--------: |
+| [Yazbel Python Belgelesi - Yayım 4.0.0](https://python-istihza.yazbel.com/YazbelPythonProgramlamaDiliBelgeleri.pdf)                                                    |Turkish   | Book               | :--------: |
 
 ## **AI & Machine Learning**
 
@@ -23,3 +23,4 @@
 | [PCB Manufacturing Process — A Step-by-Step Guide](https://www.pcbcart.com/article/content/PCB-manufacturing-process.html)                                             |English   | Blog               | :--------: |
 | [Makine Eğitimi](https://www.makinaegitimi.com/)                                                                                                                       |Turkish   | Website - Platform | :--------: |
 | [The Mathematics Behind Deep Learning](https://towardsdatascience.com/the-mathematics-behind-deep-learning-f6c35a0fe077)                                               |English   | Blog               | :--------: |
+| [Crash Course FRC – Build Process](https://blog.thebluealliance.com/2018/10/13/crash-course-frc-the-process/)                                                          |English   | Blog               | :--------: |
