@@ -17,14 +17,17 @@
 
 | Resource                                                                                                                                                               | Language | Type               | What's it? |
 | -------------                                                                                                                                                          |:--------:| :--------:         | :--------: |
+| [Model Roketçilik](https://drive.google.com/file/d/1I3Fs1khMPCQeAva_wZJ3m-99UcQqcp_e/view?usp=share_link)                                                              |Turkish   | Document           | :--------: |
 | [Behind the Design - Understanding Motor and Gearbox Design](https://blog.thebluealliance.com/2013/06/24/behind-the-design-understanding-motor-and-gearbox-design/)    |English   | Blog               | :--------: |
 | [Taking Control of Your Robot with Jared](https://www.team254.com/documents/control/)                                                                                  |English   | Slide              | :--------: |
 | [Crash Course FRC – Build Process](https://blog.thebluealliance.com/2018/10/13/crash-course-frc-the-process/)                                                          |English   | Blog               | :--------: |
 | [Using a objective weight table for robotics](https://drive.google.com/file/d/11hHG7IVczt1M-EPjxiVAP--f8LT3dun_/view?usp=share_link)                                   |English   | Document           | :--------: |
 | [The Grabanski Design Manifesto](https://drive.google.com/file/d/1qvp9UgmDa8lYdGUF_-vY4Snd38uDkb9A/view?usp=sharing)                                                   |English   | Document           | :--------: |
-| [Drive Team Manual - Team 2168](https://drive.google.com/file/d/1ZpICnB_NG1VWefQE_MdFJ-9CGDbOohn7/view?usp=sharing)                                                    |English   | Document           | :--------: |
-| [Students leadership - Team 1678](https://drive.google.com/file/d/1tf0_RCNO7Xutx1AfHuDK88FuYVPL1Lfa/view?usp=sharing)                                                  |English   | Document           | :--------: |
-| [Design Concepts - Team 3847](https://drive.google.com/file/d/12_hdCf-3bIsf3ewdeFdXtA1eKaS0UdrI/view?usp=share_link)                                                   |English   | Document           | :--------: |
+| [FRC Drivetrains](https://drive.google.com/file/d/1foorU-3JMqsPTy_iqE6gWB-dHhK06xRR/view?usp=share_link)                                                               |English   | Document           | :--------: |
+| [Drive Team Manual    - Team 2168](https://drive.google.com/file/d/1ZpICnB_NG1VWefQE_MdFJ-9CGDbOohn7/view?usp=sharing)                                                 |English   | Document           | :--------: |
+| [Students leadership  - Team 1678](https://drive.google.com/file/d/1tf0_RCNO7Xutx1AfHuDK88FuYVPL1Lfa/view?usp=sharing)                                                 |English   | Document           | :--------: |
+| [Design Concepts      - Team 3847](https://drive.google.com/file/d/12_hdCf-3bIsf3ewdeFdXtA1eKaS0UdrI/view?usp=share_link)                                              |English   | Document           | :--------: |
+| [Scouting for the Win - Team 254](https://drive.google.com/file/d/1G8pxyWBl4tqFVv64RNNIP_1f7OIMe9V_/view?usp=sharing)                                                  |English   | Document           | :--------: |
 
 ## **Mechanics**
 
