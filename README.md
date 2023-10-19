@@ -1,5 +1,6 @@
 # the-best-programming-resources-I-ve-ever-seen
 
+# Programming 
 ## **Pyton**
 
 | Resource                                                                                                                                                               | Language | Type               | What's it? |
@@ -12,6 +13,8 @@
 | -------------                                                                                                                                                          |:--------:| :--------:         | :--------: |
 | [Transformerları Kullanmaya Giriş](https://devhunteryz.wordpress.com/2023/06/)                                                                                         |Turkish   | Blog               | :--------: |
 | [The Mathematics Behind Deep Learning](https://towardsdatascience.com/the-mathematics-behind-deep-learning-f6c35a0fe077)                                               |English   | Blog               | :--------: |
+
+# Robotics
 
 ## **Robotics + FRC**
 
