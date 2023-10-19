@@ -67,3 +67,5 @@
 | [FRC Java Programming - Team 3255](https://drive.google.com/file/d/1Trn48xzdfsAeqEstdvyR3Ffl3j0ixxGw/view?usp=share_link)                                              |English   | Document           | :--------: |
 | [Effective FIRST Strategies for Design & Competition - Team 1114](https://drive.google.com/file/d/1PvN84nAqS3WH4UgiWt0xsGeZJyxPutG7/view?usp=sharing)                  |English   | Document           | :--------: |
 | [FRC Driver Selection Criteria - Team 254](https://drive.google.com/file/d/1M0dtOiYMDhtvTxemngvyo4qXLS0NU-K1/view?usp=sharing)                                         |English   | Document           | :--------: |
+| [Building To Your Capabilities - Team 125](https://drive.google.com/file/d/1mD8oC5NRZv88LqLYImfC43STfpIV5o6x/view?usp=share_link)                                      |English   | Document           | :--------: |
+| [A guide for total noobs](https://drive.google.com/file/d/1ETgnWGhfGRTMm2WoepS2uuUMzre3j_lk/view?usp=sharing)                                                          |English   | Document           | :--------: |
