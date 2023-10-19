@@ -29,6 +29,7 @@
 | [Mekanik Tasarımda Malzeme Seçimi](https://drive.google.com/file/d/1ZVL1Hohb2PzZ5DBZ6jMcCNkfSu4K2Tl9/view?usp=share_link)                                              |Turkish   | Document           | :--------: |
 | [Kuvvet Kalibrasyonları Rehberi](https://drive.google.com/file/d/1PG8uAPtCjLZCeRZpeDmFNULv2E36t_v_/view?usp=sharing)                                                   |Turkish   | Document           | :--------: |
 | [Kayış-Kasnak Mekanizmaları](https://drive.google.com/file/d/1QEmtm7pp4mHyYlkA5c3vHt5wk8iDdH04/view?usp=share_link)                                                    |Turkish   | Document           | :--------: |
+| [Makine Elemanları Ders Notları](https://drive.google.com/file/d/1vU226xwWLxkEhoz0rdZu7lwOjx5pXQ2-/view?usp=sharing)                                                   |Turkish   | Document           | :--------: |
 
 
 ## **Electronics**
@@ -44,6 +45,7 @@
 | Resource                                                                                                                                                               | Language | Type               | What's it? |
 | -------------                                                                                                                                                          |:--------:| :--------:         | :--------: |
 | [Model Roketçilik](https://drive.google.com/file/d/1I3Fs1khMPCQeAva_wZJ3m-99UcQqcp_e/view?usp=share_link)                                                              |Turkish   | Document           | :--------: |
+| [Using the Engineering Design Process for Design of a Competition Robot](https://drive.google.com/file/d/1mRuA81z7fE1xUpqaF7iwmR0GXi1u8cpn/view?usp=share_link)        |Turkish   | Document           | :--------: |
 
 ## **FRC**
 
@@ -62,3 +64,5 @@
 | [Let's Do Robot Math! - Team 67](https://drive.google.com/file/d/156I89TrCLA97dA-RtMCDkoLNXehp9AIv/view)                                                               |English   | Document           | :--------: |
 | [Guide to the FRC MCC - Team 3847](https://drive.google.com/file/d/1u16YUQo_enAXq78zRRROyCOekmf64HOR/view?usp=share_link)                                              |English   | Document           | :--------: |
 | [FRC Java Programming - Team 3255](https://drive.google.com/file/d/1Trn48xzdfsAeqEstdvyR3Ffl3j0ixxGw/view?usp=share_link)                                              |English   | Document           | :--------: |
+| [Effective FIRST Strategies for Design & Competition - Team 1114](https://drive.google.com/file/d/1PvN84nAqS3WH4UgiWt0xsGeZJyxPutG7/view?usp=sharing)                  |English   | Document           | :--------: |
+| [FRC Driver Selection Criteria - Team 254](https://drive.google.com/file/d/1M0dtOiYMDhtvTxemngvyo4qXLS0NU-K1/view?usp=sharing)                                         |English   | Document           | :--------: |
