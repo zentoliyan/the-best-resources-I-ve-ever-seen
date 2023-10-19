@@ -7,7 +7,7 @@
 
 # Programming 
 
-## **Pyton**
+## **Python**
 
 | Resource                                                                                                                                                               | Language | Type               | What's it? |
 | -------------                                                                                                                                                          |:--------:| :--------:         | :--------: |
