@@ -15,5 +15,5 @@
 | [Taking Control of Your Robot with Jared](https://www.team254.com/documents/control/)                                                                                  |English   | Slide              | :--------: |
 | [Schaeffler](https://medias.schaeffler.de)                                                                                                                             |English   | Website - Catalog  | :--------: |
 | [PCB Manufacturing Process — A Step-by-Step Guide](https://www.pcbcart.com/article/content/PCB-manufacturing-process.html)                                             |English   | Blog               | :--------: |
-| [Makine Eğitimi](https://www.makinaegitimi.com/)                                                                                                                       |English   | Website - Platform | :--------: |
+| [Makine Eğitimi](https://www.makinaegitimi.com/)                                                                                                                       |Turkish   | Website - Platform | :--------: |
 | [The Mathematics Behind Deep Learning](https://towardsdatascience.com/the-mathematics-behind-deep-learning-f6c35a0fe077)                                               |English   | Blog               | :--------: |
