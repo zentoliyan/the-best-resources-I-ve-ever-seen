@@ -4,6 +4,7 @@
 | Resource                                                                                                                                                               | Language | Type               | What's it? |
 | -------------                                                                                                                                                          |:--------:| :--------:         | :--------: |
 | [Yatırımcı ve Teknik Analiz Sorgulanıyor](https://www.bilgeyatirimci.com/yatvetekanaliz.pdf)                                                                           |Turkish   | Book               | :--------: |
+| [Amerikan 10 Yıllık Tahvil Faizleri İle Gelişmekte Olan Ülke Borsaları Arasındaki İlişkinin Test Edilmesi](https://dergipark.org.tr/tr/download/article-file/698727)   |Turkish   | Article            | :--------: |
 
 # Programming 
 
