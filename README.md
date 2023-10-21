@@ -15,6 +15,7 @@
 | Resource                                                                                                                                                               | Language | Type               | What's it? |
 | -------------                                                                                                                                                          |:--------:| :--------:         | :--------: |
 | [Yazbel Python Belgelesi - Yayım 4.0.0](https://python-istihza.yazbel.com/YazbelPythonProgramlamaDiliBelgeleri.pdf)                                                    |Turkish   | Book               | :--------: |
+| [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)                                                                                                     |English   | Github Repo        | :--------: |
 
 ## **AI & Machine Learning**
 
