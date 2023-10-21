@@ -59,7 +59,7 @@
 | [Model Roketçilik](https://drive.google.com/file/d/1I3Fs1khMPCQeAva_wZJ3m-99UcQqcp_e/view?usp=share_link)                                                              |Turkish   | Document           | :--------: |
 | [Using the Engineering Design Process for Design of a Competition Robot](https://drive.google.com/file/d/1mRuA81z7fE1xUpqaF7iwmR0GXi1u8cpn/view?usp=share_link)        |Turkish   | Document           | :--------: |
 
-## **FRC**
+## **FIRST ROBOTICS COMPETITION**
 
 | Resource                                                                                                                                                               | Language | Type               | What's it? |
 | -------------                                                                                                                                                          |:--------:| :--------:         | :--------: |
