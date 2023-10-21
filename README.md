@@ -5,6 +5,7 @@
 | -------------                                                                                                                                                          |:--------:| :--------:         | :--------: |
 | [Yatırımcı ve Teknik Analiz Sorgulanıyor](https://www.bilgeyatirimci.com/yatvetekanaliz.pdf)                                                                           |Turkish   | Book               | :--------: |
 | [Amerikan 10 Yıllık Tahvil Faizleri İle Gelişmekte Olan Ülke Borsaları Arasındaki İlişkinin Test Edilmesi](https://dergipark.org.tr/tr/download/article-file/698727)   |Turkish   | Article            | :--------: |
+| [Yapay Zeka Yöntemleri İle Hisse Senedi Fiyat Öngörüleri](https://dergipark.org.tr/en/download/article-file/1571449)                                                   |Turkish   | Article            | :--------: |
 
 # Programming 
 
