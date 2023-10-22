@@ -8,6 +8,7 @@
 | [Yapay Zeka Yöntemleri İle Hisse Senedi Fiyat Öngörüleri](https://dergipark.org.tr/en/download/article-file/1571449)                                                   |Turkish   | Article            | :--------: |
 | [The Role of Technical Indicators in the Intraday Prediction of Stock Markets: Artificial Neural Network Models for Borsa Istanbul](https://scientiairanica.sharif.edu/article_23132_57acf1e13a2612331399c8d948b2ecdf.pdf) |English   | Article            | :--------: |
 | [151 Trading Strategies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3247865)                                                                                  |English   | Article            | :--------: |
+| [Hisse Senetlerinin Fiyat Eşzamanlılığı ve Bilgi Asimetrisi](https://dergipark.org.tr/en/download/article-file/2354265)                                                |English   | Article            | :--------: |
 
 # Programming 
 
