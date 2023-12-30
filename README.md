@@ -9,7 +9,7 @@
 | [The Role of Technical Indicators in the Intraday Prediction of Stock Markets: Artificial Neural Network Models for Borsa Istanbul](https://scientiairanica.sharif.edu/article_23132_57acf1e13a2612331399c8d948b2ecdf.pdf) |English   | Article            | :--------: |
 | [151 Trading Strategies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3247865)                                                                                  |Turkish   | Article            | :--------: |
 | [Hisse Senetlerinin Fiyat Eşzamanlılığı ve Bilgi Asimetrisi](https://dergipark.org.tr/en/download/article-file/2354265)                                                |Turkish   | Article            | :--------: |
-| [Financial Markets (2011) with Robert Shiller](https://www.youtube.com/playlist?list=PL8FB14A2200B87185)                                                               |English   | Playlist           | :--------: |
+| [Financial Markets (2011) with Robert Shiller](https://www.youtube.com/playlist?list=PL8FB14A2200B87185)                                                               |English   | Video Playlist     | :--------: |
 
 # Programming 
 
